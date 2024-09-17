@@ -1,4 +1,4 @@
-package com.example.onlineshop;
+package com.example.androidSKPproject;
 
 import org.junit.Test;
 

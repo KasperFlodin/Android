@@ -1,4 +1,4 @@
-package com.example.onlineshop.Models;
+package com.example.androidSKPproject.Models;
 
 import java.io.Serializable;
 

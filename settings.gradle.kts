@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "OnlineShop"
+rootProject.name = "androidSKPproject"
 include(":app")
  

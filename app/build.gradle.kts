@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.onlineshop"
+    namespace = "com.example.androidSKPproject"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.onlineshop"
+        applicationId = "com.example.androidSKPproject"
         minSdk = 28
         targetSdk = 34
         versionCode = 1

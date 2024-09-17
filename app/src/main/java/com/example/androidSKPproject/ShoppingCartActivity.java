@@ -1,17 +1,14 @@
-package com.example.onlineshop;
+package com.example.androidSKPproject;
 
 import android.os.Bundle;
 import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.onlineshop.Models.Product;
+import com.example.androidSKPproject.Models.Product;
 
 import java.util.List;
 
